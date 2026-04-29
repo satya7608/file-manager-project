@@ -1,0 +1,11 @@
+info: system started
+ERROR: Disk Failure
+WARNING: High memory usage
+INFO: User login
+ERROR: Network down
+INFO: Backup completed
+WARNING: CPU high
+INFO: User logout
+ERROR: File missing
+INFO: System shutdown
+
